@@ -21,7 +21,7 @@ In this tutorial, we will setup VPN and usage using Proton VPN.. <br />
 - Ubuntu Server 20.04
 - https://whatismyipaddress.com/
 - http://accountprotonvpn.com/signup?plan=free&language=en
-- wwww.portal.azure.com
+- www.portal.azure.com
 
 <h2>High-Level Steps</h2>
 
@@ -41,7 +41,7 @@ In this tutorial, we will setup VPN and usage using Proton VPN.. <br />
 <p>
 Browse to http://whatismtipaddress.com/ keep note as a reminder
 
-Second create a Resource Group in Azure: wwww.portal.azure.com
+Second create a Resource Group in Azure: www.portal.azure.com
 
 </p>
 ![image](https://github.com/leticialunaa/vpn-setup/assets/146797387/9b8580aa-f2b0-49ce-b984-b2dd6366da54)
