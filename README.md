@@ -38,13 +38,14 @@ In this tutorial, we will setup VPN and usage using Proton VPN.. <br />
 ![image](https://github.com/leticialunaa/vpn-setup/assets/146797387/738efc20-02a9-4cbb-98bd-66fc88e9080b)
 
 
-<p>
-Browse to http://whatismtipaddress.com/ keep note as a reminder
+
+Browse to http://whatismyipaddress.com/ keep note as a reminder
 
 Second create a Resource Group in Azure: www.portal.azure.com
 
-</p>
+
 ![image](https://github.com/leticialunaa/vpn-setup/assets/146797387/9b8580aa-f2b0-49ce-b984-b2dd6366da54)
+
 
 Create a Windows 10 Virtual Machine in another geographic location (try a different country)
 
@@ -53,6 +54,7 @@ Log into the VM with Remote Desktop
 Browse to https://whatismyipaddress.com/ take note as a reminder
 
 ![unnamed (2)](https://github.com/leticialunaa/vpn-setup/assets/146797387/81703198-54a7-4e2d-82f4-51eb28ebb778)
+
 
 Create an account ProtonVPN from your computer and test the VPN connection
 The website is the following: https://account.protonvpn.com/signup?plan=free&language=en
@@ -63,6 +65,7 @@ The website is the following: https://account.protonvpn.com/signup?plan=free&lan
 
 Within your VM, download the Proton VPN client
 
+
 ![unnamed (6)](https://github.com/leticialunaa/vpn-setup/assets/146797387/ced2a220-6b2d-4fa2-87ed-4e8451f5f674)
 
 
@@ -70,6 +73,7 @@ Login to the VPN and choose a VPN server in another country (such as Japan)
 
 
 ![unnamed](https://github.com/leticialunaa/vpn-setup/assets/146797387/61bc352c-9c22-4844-92ea-ba61335b5d45)
+
 
 Browse to the following website: https://whatismyipaddress.com/ and take a note as a reminder.
 
