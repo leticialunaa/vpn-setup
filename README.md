@@ -21,6 +21,7 @@ In this tutorial, we will setup VPN and usage using Proton VPN.. <br />
 - Ubuntu Server 20.04
 - https://whatismyipaddress.com/
 - http://accountprotonvpn.com/signup?plan=free&language=en
+- wwww.portal.azure.com
 
 <h2>High-Level Steps</h2>
 
