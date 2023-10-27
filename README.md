@@ -19,35 +19,65 @@ In this tutorial, we will setup VPN and usage using Proton VPN.. <br />
 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
+- https://whatismyipaddress.com/
+- http://accountprotonvpn.com/signup?plan=free&language=en
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Browse https://whatismyipaddress.com/
+- Step 2: Create a resource group through Azure
+- Step 3: Login to the VM Remote Desktop
+- Step 4: Sign up for http://accountprotonvpn.com/signup?plan=free&language=en
+- Step 5: Browse What is my ip and view differences
+- Step 6: Erase lab and all Resource Groups
 
 <h2>Actions and Observations</h2>
 
-<p>
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/leticialunaa/vpn-setup/assets/146797387/738efc20-02a9-4cbb-98bd-66fc88e9080b)
+
 
 <p>
+Browse to http://whatismtipaddress.com/ keep note as a reminder
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
+Second create a Resource Group in Azure: wwww.portal.azure.com
 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/leticialunaa/vpn-setup/assets/146797387/9b8580aa-f2b0-49ce-b984-b2dd6366da54)
+
+Create a Windows 10 Virtual Machine in another geographic location (try a different country)
+
+Log into the VM with Remote Desktop
+
+Browse to https://whatismyipaddress.com/ take note as a reminder
+
+![unnamed (2)](https://github.com/leticialunaa/vpn-setup/assets/146797387/81703198-54a7-4e2d-82f4-51eb28ebb778)
+
+Create an account ProtonVPN from your computer and test the VPN connection
+The website is the following: https://account.protonvpn.com/signup?plan=free&language=en
+
+
+![unnamed (3)](https://github.com/leticialunaa/vpn-setup/assets/146797387/fa0eb083-6423-4f5d-bf46-7bd2f6984945)
+
+
+Within your VM, download the Proton VPN client
+
+![unnamed (6)](https://github.com/leticialunaa/vpn-setup/assets/146797387/ced2a220-6b2d-4fa2-87ed-4e8451f5f674)
+
+
+Login to the VPN and choose a VPN server in another country (such as Japan)
+
+
+![unnamed](https://github.com/leticialunaa/vpn-setup/assets/146797387/61bc352c-9c22-4844-92ea-ba61335b5d45)
+
+Browse to the following website: https://whatismyipaddress.com/ and take a note as a reminder.
+
+Browse to Google, Disney and other websites and see if there is anything different about the sites in relation to the location of your VPN server. 
+
+Last step delete the resouce group and verify that resouces/ Resouce groups have been deleted. 
+
+Lab complete. 
+
+
+
+
